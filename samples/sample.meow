@@ -1,0 +1,23 @@
+# ------------------------------------------------ #
+#                                                  #
+#                                                  #
+#                   DOT MEOW (🐈‍)                  #
+#                                                  #
+#                  By Th3Maid 2023                 #
+#                                                  #
+#          MEOW VAR_NAME = "" declare variables    #
+#                                                  #
+# ------------------------------------------------ #
+
+MEOW ROOT_A = "{"dicio": "value"}, {"value": "g"}"
+MEOW ROOT_B = "-oopeowqpeóe3oo=-20-304-=201owo=wo"
+MEOW ROOT_C = "car flow like bmw phonk cat cookie"
+MEOW ROOT_D = "p2=p=2p=2đ°đø£\³đø²§đþ¹²§þđĸ©µ»µ·©'
+
+MEOW FAIL_A:= ""
+MEOW FAIL_B = "WD[WQ[Q[DÇQWD[ÇQW[ÇDQ[D]]]]]]
+MEOW FAIL_C = "\t\n\r\n\t\      \\\ '""''``"
+
+
+MEOW test = "test"
+moew test2 = "test2"
