@@ -8,7 +8,10 @@
 //                                                  //
 // ------------------------------------------------ //
 
+mod core;
+use crate::core::core::read_meow;
 
 fn main() {
-    println!("Hello, world!");
+    let result = read_meow("../samples/sample.meow", true);
+    println!("{:?}", result);
 }
