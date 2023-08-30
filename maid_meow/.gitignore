@@ -1,0 +1,21 @@
+# Generated files
+Cargo.lock
+target/
+www.example.com/
+output.raw
+
+# Optional editor/IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+**/*.rs.bk
+
+# Generated documentation
+/target/doc/
+
+# OS or editor-specific files
+*~
+.DS_Store
+report.html
+
